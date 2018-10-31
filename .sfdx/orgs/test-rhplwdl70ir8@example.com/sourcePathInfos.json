@@ -1,0 +1,212 @@
+[
+    [
+        "/Users/swerner/Documents/Visual Studio Code Workspace/LearningLightning01/force-app",
+        {
+            "state": "u",
+            "sourcePath": "/Users/swerner/Documents/Visual Studio Code Workspace/LearningLightning01/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1541009319622,
+            "changeTime": 1541009319622,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/swerner/Documents/Visual Studio Code Workspace/LearningLightning01/force-app/main",
+        {
+            "state": "u",
+            "sourcePath": "/Users/swerner/Documents/Visual Studio Code Workspace/LearningLightning01/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1541009319622,
+            "changeTime": 1541009319622,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/swerner/Documents/Visual Studio Code Workspace/LearningLightning01/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/swerner/Documents/Visual Studio Code Workspace/LearningLightning01/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1541009319622,
+            "changeTime": 1541009319622,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/swerner/Documents/Visual Studio Code Workspace/LearningLightning01/force-app/main/default/aura",
+        {
+            "state": "u",
+            "sourcePath": "/Users/swerner/Documents/Visual Studio Code Workspace/LearningLightning01/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1541009811050,
+            "changeTime": 1541009811050,
+            "contentHash": "1016fcb2b4ff485857c733a5a8bcf8240d24fddd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/swerner/Documents/Visual Studio Code Workspace/LearningLightning01/force-app/main/default/aura/Learning",
+        {
+            "state": "u",
+            "sourcePath": "/Users/swerner/Documents/Visual Studio Code Workspace/LearningLightning01/force-app/main/default/aura/Learning",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1541009811069,
+            "changeTime": 1541009811069,
+            "contentHash": "a03ab9c168efb2e97bfd198f36d9d956ebaf07f9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/swerner/Documents/Visual Studio Code Workspace/LearningLightning01/force-app/main/default/aura/Learning/Learning.app",
+        {
+            "state": "u",
+            "sourcePath": "/Users/swerner/Documents/Visual Studio Code Workspace/LearningLightning01/force-app/main/default/aura/Learning/Learning.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 130,
+            "modifiedTime": 1541009878001,
+            "changeTime": 1541009878001,
+            "contentHash": "59a4bd98705593c2d01c7de50478242c98509a39",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/swerner/Documents/Visual Studio Code Workspace/LearningLightning01/force-app/main/default/aura/Learning/Learning.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/swerner/Documents/Visual Studio Code Workspace/LearningLightning01/force-app/main/default/aura/Learning/Learning.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1541009811052,
+            "changeTime": 1541009811052,
+            "contentHash": "3d813071b81b18114e32d14c253803718cfca6fc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/swerner/Documents/Visual Studio Code Workspace/LearningLightning01/force-app/main/default/aura/Learning/Learning.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/swerner/Documents/Visual Studio Code Workspace/LearningLightning01/force-app/main/default/aura/Learning/Learning.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1541009811069,
+            "changeTime": 1541009811069,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/swerner/Documents/Visual Studio Code Workspace/LearningLightning01/force-app/main/default/aura/Learning/Learning.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/swerner/Documents/Visual Studio Code Workspace/LearningLightning01/force-app/main/default/aura/Learning/Learning.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1541009811057,
+            "changeTime": 1541009811057,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/swerner/Documents/Visual Studio Code Workspace/LearningLightning01/force-app/main/default/aura/Learning/Learning.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/swerner/Documents/Visual Studio Code Workspace/LearningLightning01/force-app/main/default/aura/Learning/Learning.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1541009811064,
+            "changeTime": 1541009811064,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/swerner/Documents/Visual Studio Code Workspace/LearningLightning01/force-app/main/default/aura/Learning/LearningController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/swerner/Documents/Visual Studio Code Workspace/LearningLightning01/force-app/main/default/aura/Learning/LearningController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 91,
+            "modifiedTime": 1541009950040,
+            "changeTime": 1541009950040,
+            "contentHash": "6c620348714ffedf4be919b39052f9902efa992a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/swerner/Documents/Visual Studio Code Workspace/LearningLightning01/force-app/main/default/aura/Learning/LearningHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/swerner/Documents/Visual Studio Code Workspace/LearningLightning01/force-app/main/default/aura/Learning/LearningHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1541009811057,
+            "changeTime": 1541009811057,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/swerner/Documents/Visual Studio Code Workspace/LearningLightning01/force-app/main/default/aura/Learning/LearningRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/swerner/Documents/Visual Studio Code Workspace/LearningLightning01/force-app/main/default/aura/Learning/LearningRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1541009811063,
+            "changeTime": 1541009811063,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/swerner/Documents/Visual Studio Code Workspace/LearningLightning01",
+        {
+            "state": "u",
+            "sourcePath": "/Users/swerner/Documents/Visual Studio Code Workspace/LearningLightning01",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1541009401415,
+            "changeTime": 1541009401415,
+            "contentHash": "292a0b1d68cb777256ffef5ff732cf82dfa80f0e",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
