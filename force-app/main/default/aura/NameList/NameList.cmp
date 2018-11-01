@@ -1,0 +1,10 @@
+<aura:component>
+    <aura:attribute name="names" type="String[]"/>
+    <lightning:card title="Names">
+        <p class="slds-p-horizontal--small">
+            <aura:iteration items="{!v.names}" var="name">
+                <c:NameListItem thename="{!name}"/>
+            </aura:iteration>
+        </p>
+    </lightning:card>
+</aura:component>	

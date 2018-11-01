@@ -2,12 +2,20 @@
     <aura:attribute name="names" type="String[]"/>
     <aura:attribute name="newName" type="String"/>
     <div>
-        <form>
-            <lightning:input aura:id="itemform" label="Item Name"
+        <form >
+            <lightning:input aura:id="nameform" label="Name"
                 name="itemname"
                 value="{!v.newName}"
                 formatter="String"
-                required="true"/>            
+                required="true"/>   
+            
+            <lightning:button label="Add name to list" 
+                class="slds-m-top--medium"
+                variant="brand"
+                onclick="{!c.clickCreate}"/>         
         </form>
+    </div>
+    <div>
+        <c:nameList names="{!v.names}"/>
     </div>
 </aura:component>	

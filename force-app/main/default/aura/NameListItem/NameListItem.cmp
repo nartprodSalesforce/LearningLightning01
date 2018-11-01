@@ -1,0 +1,4 @@
+<aura:component>
+    <aura:attribute name="thename" type="String"/>
+    <p><lightning:formattedText value="{!v.thename}" /></p>
+</aura:component>
