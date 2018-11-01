@@ -1,0 +1,13 @@
+<aura:component>
+    <aura:attribute name="names" type="String[]"/>
+    <aura:attribute name="newName" type="String"/>
+    <div>
+        <form>
+            <lightning:input aura:id="itemform" label="Item Name"
+                name="itemname"
+                value="{!v.newName}"
+                formatter="String"
+                required="true"/>            
+        </form>
+    </div>
+</aura:component>	
